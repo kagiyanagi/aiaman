@@ -1,4 +1,4 @@
-# aiAman - Computer Science Enthusiast, Linuxer, Deep Learning Aficionado ✨
+# Ren - Computer Science Enthusiast, Linuxer, Deep Learning Aficionado ✨
 
 ### Home page :
   <p align="center">
@@ -63,4 +63,4 @@ Then just make you changes ✍️ and create pull request!
 
 ---
 
-Made with ❤️& ✨ by [@quietpulse](https://github.com/quietpulse)
+Made with ❤️& ✨ by [@quietpulse](https://github.com/kagiyanagi)

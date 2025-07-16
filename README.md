@@ -63,4 +63,4 @@ Then just make you changes ✍️ and create pull request!
 
 ---
 
-Made with ❤️& ✨ by [@quietpulse](https://github.com/kagiyanagi)
+Made with ❤️& ✨ by [@kagiyanagi](https://github.com/kagiyanagi)
